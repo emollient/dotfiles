@@ -1,2 +1,2 @@
 Vim distribution:
-Using [spf13](git@github.com:emollient/dotfiles.git)
+Using [spf13](https://github.com/spf13/spf13-vim)
